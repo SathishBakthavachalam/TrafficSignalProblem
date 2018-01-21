@@ -60,8 +60,8 @@ traffic.operatrion.frequency=20
 
 ## Junits and Coverage
 
-Junits are written as per the spring boot application and for now the coverage is just above 90%.
+Junits are written as per the spring boot application and for now the coverage is just above 80%.
 
 ## Author
 
-Sameer Hashmi
+Sathish Bakthavachalam
